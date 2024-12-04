@@ -66,6 +66,6 @@ Welcome to my Data Science portfolio! As a seasoned IT Business Analyst with ove
 
 ## 🤝 **Connect with Me**
 - **LinkedIn**:[ [Jaideep Sharma]https://www.linkedin.com/in/jaideepsharma/
-- **GitHub**: [Jaideep's GitHub]
+- **GitHub**: [Jaideep's GitHub]https://github.com/runjaideep/Portfolio
 
 Thank you for exploring my portfolio! Feel free to reach out or explore the projects in this repository. 😊
